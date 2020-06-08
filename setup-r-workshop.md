@@ -149,10 +149,14 @@ your operating system, and then follow the instructions to install
 * Once it's installed, open RStudio to make sure it works and you don't get any
    error messages.
 
+#### Installing Tidyverse and RSQLite
 * After installing R and RStudio, you need to install the `tidyverse` and
 `RSQLite` packages. Start RStudio by double-clicking the icon and then type:
-  `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and 
+  `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and
   typing the names of the packages you want to install, separated by a comma.
+  
+#### Using R Studio from Cloud 
+* If you had any issue while installing the softwares or you do not wish to install a new software on your PC you can use RStudio from the cloud. More information on how to do so <a href = "https://rstudio.cloud/"> here</a>.
 
 
 Congratulations! You are now ready for the workshop!
